@@ -8,3 +8,9 @@
 ### 2.user_id: Unique identifier for the user who posted the tweet.
 ### 3.tweet_text: Text content of the tweet.
 ### 4.label: Classification label (0 for non-hate speech, 1 for hate speech).
+## Dataset Source: Labled_data
+# Project Importance
+### Safer Online Environments: By effectively recognizing hate speech, platforms can become safer and more inclusive for users.
+### Automated Moderation: Manual moderation can be resource-intensive. An effective hate speech recognition model can assist in automated content moderation.
+### Research & Development: Understanding patterns in hate speech can lead to more advanced research in linguistics, psychology, and sociocultural studies.
+### Policy & Regulation: As governments worldwide strive to regulate online content, this project can serve as a benchmark and aid in policy-making decisions.
