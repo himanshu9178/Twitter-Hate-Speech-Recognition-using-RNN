@@ -1,3 +1,4 @@
+![hate-speech-detection-using-machine-learning-1280x720](https://github.com/himanshu9178/Twitter-Hate-Speech-Recognition-using-RNN/assets/118620631/90bef377-c972-4f2a-9472-bcb3a64eb8b6)
 # Introduction
 ### This repository is dedicated to the research and development of hate speech recognition models focused on Twitter data. With the rise of social media platforms, it's more important than ever to ensure online interactions remain respectful and constructive. This project aims to tackle one of the pressing challenges of our digital age: identifying and addressing hate speech on Twitter.
 # Dataset
